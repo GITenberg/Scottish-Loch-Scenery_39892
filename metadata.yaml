@@ -1,0 +1,40 @@
+_repo: Scottish-Loch-Scenery_39892
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lydon, A. F. (Alexander Francis)
+    aliases:
+    - Lydon, F. A.
+    - Lydon, Alexander Francis
+    birthdate: 1836
+    deathdate: 1917
+    gutenberg_agent_id: '40284'
+    url: http://www.gutenberg.org/2009/agents/40284
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Croal, Thomas Allan
+    aliases:
+    - Croal, T. A.
+    - Croal, Thomas A.
+    birthdate: 1832
+    deathdate: 1907
+    gutenberg_agent_id: '40283'
+    url: http://www.gutenberg.org/2009/agents/40283
+description: ''
+gutenberg_issued: '2012-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Scotland -- Pictorial works'
+- !lcsh 'Lakes -- Scotland'
+title: Scottish Loch Scenery
+url: http://www.gutenberg.org/ebooks/39892
